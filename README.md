@@ -1,2 +1,2 @@
 # Landing page
- [DEMO LINK](https://ViktoriaIljina.github.io/landing-page)
+ [DEMO LINK](http://localhost:5173/landing-page/)
