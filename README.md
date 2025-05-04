@@ -1,9 +1,16 @@
-# React + Vite
+## Опис
+Це мій дебютний проєкт — сайт бренду B&O, що презентує його аудіотехніку. Сайт розроблений відповідно до дизайн-макету та оптимізований для зручного користування. Реалізовано навігацію та бургер-меню. У майбутньому планується додати функцію надсилання форми.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Технології
 
-Currently, two official plugins are available:
+- HTML 
+- CSS / SCSS
+- Git, GitHub
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-[DEMO LINK](https://viktoriailjina.github.io/landing-page/)
+## Прев'ю
+
+🔗 [DEMO LINK](https://viktoriailjina.github.io/landing-page/)
+
+## Макет
+
+🎨 [Макет у Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212)
